@@ -1,6 +1,7 @@
 ## Samsung GT-S7390 Kernel Tree for (4.4.2 , 3.4.111)           
 ![Samsung GT-S7390](http://images.samsung.com/is/image/samsung/ru_GT-S7390RWASER_000208334_Standard?$DT-Gallery$)
-Unofficial codename - adder
+
+#Unofficial codename - gt-s3790
 
 Basic   | Spec Sheet
 -------:|:-------------------------
